@@ -89,6 +89,7 @@ form.addEventListener("submit", (event) => {
   }
   window.history.replaceState({}, "", url);
   search(code);
+  input.value = "";
 });
 
 init();
