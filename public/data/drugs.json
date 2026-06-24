@@ -1,0 +1,3092 @@
+[
+  {
+    "id": "ABI02O",
+    "drug_name": "Abilify 5mg Tab#",
+    "location": "7-1"
+  },
+  {
+    "id": "ABI03O",
+    "drug_name": "ABILIFY 15mg Tab#",
+    "location": "7-1"
+  },
+  {
+    "id": "ABI04I",
+    "drug_name": "Abilify maintena 400mg Syringe",
+    "location": "3-1"
+  },
+  {
+    "id": "ACA01O",
+    "drug_name": "Acarose 50mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "ACE01I",
+    "drug_name": "Acemycin 500mg/2ml Vial#",
+    "location": "3-1"
+  },
+  {
+    "id": "ACE02I",
+    "drug_name": "Acetamol 1gm Vial",
+    "location": "3-1"
+  },
+  {
+    "id": "ACE04O",
+    "drug_name": "Acemet 60mg Cap",
+    "location": "7-1"
+  },
+  {
+    "id": "ACE05O",
+    "drug_name": "Acetazolamide 250mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ACL01E",
+    "drug_name": "Aclovir Cream 5% 5gm",
+    "location": "8-1"
+  },
+  {
+    "id": "ACT01O",
+    "drug_name": "Actos 30mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "ACT02O",
+    "drug_name": "ACTEIN Effervescent 600mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ACT06O",
+    "drug_name": "Actein  Granules 200mg/3gm Pack",
+    "location": "7-1"
+  },
+  {
+    "id": "ACY02O",
+    "drug_name": "Acylo 400mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ADE01I",
+    "drug_name": "Adenocor 6mg/2ml Vial",
+    "location": "5-2"
+  },
+  {
+    "id": "ADR02I",
+    "drug_name": "Adrenalin 1mg/1ml Amp",
+    "location": "5-2"
+  },
+  {
+    "id": "AGG02I",
+    "drug_name": "Agglutex 25000iu/5ml Vial",
+    "location": "5-2"
+  },
+  {
+    "id": "AKU02O",
+    "drug_name": "AKuriT-4 275/75/400/150 Tab#",
+    "location": "7-1"
+  },
+  {
+    "id": "ALC02E",
+    "drug_name": "Alcos-Anal Supp",
+    "location": "8-1"
+  },
+  {
+    "id": "ALC04E",
+    "drug_name": "Alcos-Anal Oint 20gm",
+    "location": "8-1"
+  },
+  {
+    "id": "ALC16E",
+    "drug_name": "Alcohol 75% 4L/Bot",
+    "location": "8-4"
+  },
+  {
+    "id": "ALE01I",
+    "drug_name": "Aleviatin 250mg/5ml Amp",
+    "location": "3-1"
+  },
+  {
+    "id": "ALG01O",
+    "drug_name": "Algitab Chewable Tab#",
+    "location": "7-1"
+  },
+  {
+    "id": "ALG01S",
+    "drug_name": "Alginos Oral Suspension 210ml/Bot",
+    "location": "8-1"
+  },
+  {
+    "id": "ALI01O",
+    "drug_name": "Alinamin-F 50 S.C. Tab#",
+    "location": "7-1"
+  },
+  {
+    "id": "ALL01S",
+    "drug_name": "All-Right Calcium Susp 180ml Bot#",
+    "location": "8-1"
+  },
+  {
+    "id": "ALL02O",
+    "drug_name": "Allegra 60mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ALO01I",
+    "drug_name": "Aloxi 0.25mg/5ml Vial#",
+    "location": "3-1"
+  },
+  {
+    "id": "ALU02O",
+    "drug_name": "Aluminum Hydroxide 324mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "AMA02O",
+    "drug_name": "Amaryl 2mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "AMA03O",
+    "drug_name": "AMARYL M 2/500mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "AMB01I",
+    "drug_name": "Ambisome 50mg Vial#",
+    "location": "5-2"
+  },
+  {
+    "id": "AMI01O",
+    "drug_name": "Amizide Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "AMI12I",
+    "drug_name": "Aminopoly-H 500ml Bot",
+    "location": "3-1"
+  },
+  {
+    "id": "AMI13I",
+    "drug_name": "Aminosteril Infant 10% 100ml",
+    "location": "5-2"
+  },
+  {
+    "id": "AMO01I",
+    "drug_name": "AmoClav 1.2g Vial",
+    "location": "3-4"
+  },
+  {
+    "id": "AMO01O",
+    "drug_name": "Amoxicillin 250mg Cap YungShin",
+    "location": "7-1"
+  },
+  {
+    "id": "AMP01O",
+    "drug_name": "Ampicillin 500mg Cap",
+    "location": "7-1"
+  },
+  {
+    "id": "AMP02I",
+    "drug_name": "Ampholipad 50mg Vial",
+    "location": "5-2"
+  },
+  {
+    "id": "AMP03I",
+    "drug_name": "Ampolin 500mg Vial",
+    "location": "3-2"
+  },
+  {
+    "id": "AMT01O",
+    "drug_name": "Amtrel Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "AND01O",
+    "drug_name": "Androcur 50mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "ANE03I",
+    "drug_name": "Anexate 0.5mg/5ml Amp#",
+    "location": "3-3"
+  },
+  {
+    "id": "ANG02I",
+    "drug_name": "Angidil 10mg/10ml Amp",
+    "location": "3-2"
+  },
+  {
+    "id": "ANP01I",
+    "drug_name": "Anpo 50mg/5ml Amp",
+    "location": "3-3"
+  },
+  {
+    "id": "ANP01O",
+    "drug_name": "Anpo 10mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ANT01I",
+    "drug_name": "Antifect 1g Vial#",
+    "location": "3-2"
+  },
+  {
+    "id": "ANT06O",
+    "drug_name": "Antibiophilus 250mg Cap#",
+    "location": "7-1"
+  },
+  {
+    "id": "ANT09S",
+    "drug_name": "Anti-Phen 24mg/ml; 60ml#",
+    "location": "8-1"
+  },
+  {
+    "id": "APR06O",
+    "drug_name": "Aprezin 10mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ARA01O",
+    "drug_name": "Arax 25mg Tab",
+    "location": "7-1"
+  },
+  {
+    "id": "ARH01O",
+    "drug_name": "Arheuma 20mg Tab#",
+    "location": "7-2"
+  },
+  {
+    "id": "ARI03O",
+    "drug_name": "Aricept 10mg Tab#",
+    "location": "7-1"
+  },
+  {
+    "id": "ARO01O",
+    "drug_name": "Aromasin 25mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "ART02E",
+    "drug_name": "Artelac Eye Drops 0.32% 10ml#",
+    "location": "8-1"
+  },
+  {
+    "id": "ASI01I",
+    "drug_name": "Asiphylline 250mg/10ml Amp",
+    "location": "3-2"
+  },
+  {
+    "id": "ASP03O",
+    "drug_name": "Aspirin Protect 100mg Tab#",
+    "location": "7-2"
+  },
+  {
+    "id": "ATA02O",
+    "drug_name": "Atanaal 5mg Cap",
+    "location": "7-2"
+  },
+  {
+    "id": "ATI01O",
+    "drug_name": "Ativan 0.5mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "ATO02O",
+    "drug_name": "ATOZET 10/20mg Tab#",
+    "location": "7-2"
+  },
+  {
+    "id": "ATR01I",
+    "drug_name": "Atropine 1mg/1ml Amp",
+    "location": "3-3"
+  },
+  {
+    "id": "AUG04S",
+    "drug_name": "Augmentin Syrup 457mg/5ml;35ml#",
+    "location": "8-1"
+  },
+  {
+    "id": "AVA01E",
+    "drug_name": "Avamys Nasal Spray 27.5ug/50uL;120D",
+    "location": "8-1"
+  },
+  {
+    "id": "AVE01I",
+    "drug_name": "Avelox 400mg/250ml#",
+    "location": "3-2"
+  },
+  {
+    "id": "AVE01O",
+    "drug_name": "Avelox 400mg Tab#",
+    "location": "7-2"
+  },
+  {
+    "id": "AVO01O",
+    "drug_name": "Avodart 0.5mg Cap#",
+    "location": "7-2"
+  },
+  {
+    "id": "BAI01I",
+    "drug_name": "Bain Inj. 10mg/1ml amp",
+    "location": "3-3"
+  },
+  {
+    "id": "BAK01O",
+    "drug_name": "Baktar Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BAR02O",
+    "drug_name": "Baraclude 0.5mg Tab#",
+    "location": "7-2"
+  },
+  {
+    "id": "BEE01O",
+    "drug_name": "Beesix 50mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BER05E",
+    "drug_name": "BeroDUAL N Metered Aerosol 200d#",
+    "location": "8-1"
+  },
+  {
+    "id": "BET01O",
+    "drug_name": "Betmiga PR 25mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BET02O",
+    "drug_name": "BETMIGA PR 50MG TAB",
+    "location": "7-2"
+  },
+  {
+    "id": "BET07O",
+    "drug_name": "BETALOC ZOK 100MG TAB",
+    "location": "7-2"
+  },
+  {
+    "id": "BEV01E",
+    "drug_name": "Bevespi Aerosphere 7.2/5mcg Inh; 120d#",
+    "location": "8-1"
+  },
+  {
+    "id": "BFL01I",
+    "drug_name": "Bfluid 1000ml Bag",
+    "location": "層架"
+  },
+  {
+    "id": "BIN01O",
+    "drug_name": "Binin-U 5mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BIO02O",
+    "drug_name": "Bio-Cal Plus Chewable Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BIO06O",
+    "drug_name": "Biofermin-R Powder 6mg/1gm Pack",
+    "location": "7-2"
+  },
+  {
+    "id": "BIP01O",
+    "drug_name": "Biperin 2mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BIP02I",
+    "drug_name": "Bipiden 5mg/1ml Amp",
+    "location": "3-3"
+  },
+  {
+    "id": "BIS01O",
+    "drug_name": "Bismuth 324mg Tab VPP",
+    "location": "7-2"
+  },
+  {
+    "id": "BIS02E",
+    "drug_name": "Bisadyl 10mg Supp",
+    "location": "8-1"
+  },
+  {
+    "id": "BIS03S",
+    "drug_name": "Bisolvon Solu 2mg/ml;50ml#",
+    "location": "8-2"
+  },
+  {
+    "id": "BIS04O",
+    "drug_name": "Bisacodyl 5mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BIS05O",
+    "drug_name": "Bistin 20mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BLO01O",
+    "drug_name": "Blopress 8mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BLO03O",
+    "drug_name": "BLOPRESS PLUS 16/12.5mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BOB01I",
+    "drug_name": "Bobimixyn 500KU Vial",
+    "location": "3-3"
+  },
+  {
+    "id": "BOK01O",
+    "drug_name": "Bokey 100mg Em Cap",
+    "location": "7-2"
+  },
+  {
+    "id": "BRI01O",
+    "drug_name": "BRILINTA FC 90MG TAB#",
+    "location": "7-2"
+  },
+  {
+    "id": "BRI02O",
+    "drug_name": "Brintellix 10mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "BRO02I",
+    "drug_name": "Brosym For Inj 2Gm/Vial",
+    "location": "3-3"
+  },
+  {
+    "id": "BRO07S",
+    "drug_name": "Brown Mixture Liq. 120ml Bot#",
+    "location": "8-3"
+  },
+  {
+    "id": "BUR01I",
+    "drug_name": "Burinex 2mg/4ml Amp",
+    "location": "3-3"
+  },
+  {
+    "id": "BUS01I",
+    "drug_name": "Buscopan 20mg/1ml Amp",
+    "location": "3-3"
+  },
+  {
+    "id": "BUS03O",
+    "drug_name": "Busix 1mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CAD02O",
+    "drug_name": "CADUET 5/20MG TAB#",
+    "location": "7-3"
+  },
+  {
+    "id": "CAL01E",
+    "drug_name": "Calmsit Cream 15gm Tube",
+    "location": "8-1"
+  },
+  {
+    "id": "CAN01O",
+    "drug_name": "Canaglu 100mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "CAR03O",
+    "drug_name": "Carvedilol HEXAL 25mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CAR04O",
+    "drug_name": "Cartil 30mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CAR05O",
+    "drug_name": "Carbizo 10mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CAR08O",
+    "drug_name": "Cardolol 40mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CAS02S",
+    "drug_name": "Castor Oil 30ml Bot (Oleum Ricini)",
+    "location": "8-1"
+  },
+  {
+    "id": "CAS03O",
+    "drug_name": "Casodex 50mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "CAT01O",
+    "drug_name": "Catapres 75mcg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CAT03O",
+    "drug_name": "Catilon 40mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CBO01E",
+    "drug_name": "C.B. Oint (Strong) 5gm",
+    "location": "8-1"
+  },
+  {
+    "id": "CEF01O",
+    "drug_name": "Ceflour FC 250mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CEF09I",
+    "drug_name": "Cefe 2gm Vial",
+    "location": "3-5"
+  },
+  {
+    "id": "CEL02O",
+    "drug_name": "Cellcept 250mg Cap",
+    "location": "7-2"
+  },
+  {
+    "id": "CEL04O",
+    "drug_name": "Celebrex 200mg Cap",
+    "location": "7-3"
+  },
+  {
+    "id": "CEL05O",
+    "drug_name": "CELLCEPT 500MG TAB",
+    "location": "7-2"
+  },
+  {
+    "id": "CEP04O",
+    "drug_name": "Ceporin 25mg Tab",
+    "location": "7-2"
+  },
+  {
+    "id": "CER03I",
+    "drug_name": "Cerebrolysin 10ml Amp",
+    "location": "3-4"
+  },
+  {
+    "id": "CET01S",
+    "drug_name": "Cetirizine Oral Soln 60mg/60ml",
+    "location": "8-1"
+  },
+  {
+    "id": "CEX01O",
+    "drug_name": "Cexime 100mg Cap#",
+    "location": "7-3"
+  },
+  {
+    "id": "CHA01E",
+    "drug_name": "Chanton Enema 15% 20ml Ball",
+    "location": "8-2"
+  },
+  {
+    "id": "CHE01I",
+    "drug_name": "Chenday 25mg/5mL Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "CHE01S",
+    "drug_name": "Micrsoy (ChemoYoung) 4mL Bot; 14Bot/Box",
+    "location": "8-2"
+  },
+  {
+    "id": "CIN01I",
+    "drug_name": "Cinolone 200mg/100ml Vial",
+    "location": "3-3"
+  },
+  {
+    "id": "CIN02O",
+    "drug_name": "Cinolone 250mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "CIT01O",
+    "drug_name": "Citao-S FC 10mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "CIV01E",
+    "drug_name": "Cividoid Gel 20gm",
+    "location": "8-1"
+  },
+  {
+    "id": "CLA01I",
+    "drug_name": "Claforan IV Inj 2gm Vial",
+    "location": "3-5"
+  },
+  {
+    "id": "CLA04O",
+    "drug_name": "Claricin 250mg Tab#",
+    "location": "7-2"
+  },
+  {
+    "id": "CLI02I",
+    "drug_name": "Clincin Inj. 300mg/2ml Amp",
+    "location": "3-4"
+  },
+  {
+    "id": "CLO03O",
+    "drug_name": "Clopine 25mg Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "CLO07E",
+    "drug_name": "Clotrimazole 500mg Vag Tab Panbiotic",
+    "location": "8-1"
+  },
+  {
+    "id": "COD01E",
+    "drug_name": "Codemycin Eye Oint 3.5gm",
+    "location": "8-1"
+  },
+  {
+    "id": "COF01O",
+    "drug_name": "Cofarin 1mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "COL01O",
+    "drug_name": "Colchicine 0.5mg Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "COL02I",
+    "drug_name": "Colimycin 2MU Vial",
+    "location": "3-4"
+  },
+  {
+    "id": "COL04E",
+    "drug_name": "Colasa Enema 4gm/100mL Bot",
+    "location": "8-1"
+  },
+  {
+    "id": "COM02E",
+    "drug_name": "Combivent UDV Inh Soln 2.5ml Amp#",
+    "location": "8-2"
+  },
+  {
+    "id": "COM05O",
+    "drug_name": "Compesolon 5mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "CON01O",
+    "drug_name": "Conslife Sugar Coated Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "CON06O",
+    "drug_name": "CONCOR 5mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "CON08O",
+    "drug_name": "Concor 1.25mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "CON12O",
+    "drug_name": "Convulex 300mg Cap",
+    "location": "7-3"
+  },
+  {
+    "id": "COR01O",
+    "drug_name": "Cortisone Acetate 25mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "COR02O",
+    "drug_name": "Coralan FC 5mg Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "COR05I",
+    "drug_name": "Cordarone 150mg/3ml Amp",
+    "location": "5-2"
+  },
+  {
+    "id": "COR05O",
+    "drug_name": "Cordarone 200mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "COU12S",
+    "drug_name": "Cough Mixture 120ml#",
+    "location": "8-3"
+  },
+  {
+    "id": "CRA02O",
+    "drug_name": "Cravit 500mg Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "CRA03I",
+    "drug_name": "Cravit 500mg/100ml Vial#",
+    "location": "3-4"
+  },
+  {
+    "id": "CRE01O",
+    "drug_name": "Crestor 10mg Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "CRE02O",
+    "drug_name": "Cretrol 10/20mg Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "CUR01O",
+    "drug_name": "Curam FC 1g Tab#",
+    "location": "7-3"
+  },
+  {
+    "id": "CYA01I",
+    "drug_name": "Cyanocobalamin (Vit.B12) 1mg/1ml Amp#",
+    "location": "3-5"
+  },
+  {
+    "id": "CYM01I",
+    "drug_name": "Cymevene 500mg Vial#",
+    "location": "3-3"
+  },
+  {
+    "id": "CYP01S",
+    "drug_name": "Cypromin Soln 0.4mg/ml;120ml#",
+    "location": "8-1"
+  },
+  {
+    "id": "DAF01O",
+    "drug_name": "Daflon FC 1gm Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "DAL01O",
+    "drug_name": "Dalmadorm 15mg Cap #4",
+    "location": "6-2"
+  },
+  {
+    "id": "DEH01O",
+    "drug_name": "Dehypotin Protect 40mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DEL03O",
+    "drug_name": "Delcopan SR 60mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "DEP01I",
+    "drug_name": "Depakine 400mg Vial#",
+    "location": "3-5"
+  },
+  {
+    "id": "DEP02O",
+    "drug_name": "Depakine Chrono 500mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "DEP04S",
+    "drug_name": "Depakine Soln 8gm/40ml Bot",
+    "location": "8-2"
+  },
+  {
+    "id": "DET02O",
+    "drug_name": "DETRUSITOL SR 4mg Cap",
+    "location": "7-3"
+  },
+  {
+    "id": "DEX01O",
+    "drug_name": "Dex-CTM 2mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "DEX02I",
+    "drug_name": "Dexamethasone 5mg/1ml Amp",
+    "location": "3-5"
+  },
+  {
+    "id": "DEX03I",
+    "drug_name": "Dextrose 10% 500mL Bag Otsuka",
+    "location": "1-1"
+  },
+  {
+    "id": "DIA01O",
+    "drug_name": "Diapin 2mg Tab#4",
+    "location": "6-2"
+  },
+  {
+    "id": "DIA04I",
+    "drug_name": "Diagnogreen Inj 25mg Vial",
+    "location": "3-5"
+  },
+  {
+    "id": "DIA04O",
+    "drug_name": "Diamicron MR 30mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "DIF01E",
+    "drug_name": "Difflam Forte Spray 3.0mg/ml; 15ml",
+    "location": "8-2"
+  },
+  {
+    "id": "DIF01I",
+    "drug_name": "Diflucan 100mg/50ml Vial#",
+    "location": "3-5"
+  },
+  {
+    "id": "DIL01O",
+    "drug_name": "Dilantin 100mg Cap",
+    "location": "7-3"
+  },
+  {
+    "id": "DIM04O",
+    "drug_name": "Dimotil Repe Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "DIO01O",
+    "drug_name": "Diovan FC 160mg Tab",
+    "location": "7-3"
+  },
+  {
+    "id": "DIP02O",
+    "drug_name": "Dipyridamole S.C. 25mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DIP03O",
+    "drug_name": "Diphenidol 25mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DIP06I",
+    "drug_name": "Dipeptiven for IV 100ml Bot",
+    "location": "5-2"
+  },
+  {
+    "id": "DIP09I",
+    "drug_name": "Diphenhydramine 30mg/1mL Amp TaiYu",
+    "location": "3-5"
+  },
+  {
+    "id": "DOP01O",
+    "drug_name": "Dopadine 100mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DOP02I",
+    "drug_name": "Dopamin 200mg/5ml Amp",
+    "location": "5-2"
+  },
+  {
+    "id": "DOR01I",
+    "drug_name": "Dormicum 15mg/3ml Amp #4",
+    "location": "6-2"
+  },
+  {
+    "id": "DOR03O",
+    "drug_name": "Dormicum FC 7.5mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "DOR04I",
+    "drug_name": "Dormicum 5mg/1ml Amp #4",
+    "location": "6-2"
+  },
+  {
+    "id": "DOR04O",
+    "drug_name": "Dorison 4mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DOX01O",
+    "drug_name": "Doxaben 2mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DOX02O",
+    "drug_name": "Doxymycin 100mg Ec Cap",
+    "location": "7-4"
+  },
+  {
+    "id": "DOX03O",
+    "drug_name": "Doxaben XL 4mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "DRO01I",
+    "drug_name": "Dropel 2.5mg/1ml Amp",
+    "location": "3-5"
+  },
+  {
+    "id": "DUP04O",
+    "drug_name": "Dupin 5mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "DUX01O",
+    "drug_name": "Duxetine 30mg Cap",
+    "location": "7-3"
+  },
+  {
+    "id": "DYN01I",
+    "drug_name": "Dynastat 40mg Vial",
+    "location": "3-5"
+  },
+  {
+    "id": "EAR01E",
+    "drug_name": "Earflo Otic Soln 3mg/ml;5ml",
+    "location": "8-3"
+  },
+  {
+    "id": "EAS01E",
+    "drug_name": "Easy Antiseptic Liq 2% 200mL Bot (粉紅)",
+    "location": "層架"
+  },
+  {
+    "id": "EAS02E",
+    "drug_name": "Easy Antiseptic Soln 2% 30ml Tube",
+    "location": "8-3"
+  },
+  {
+    "id": "ECO01O",
+    "drug_name": "Ecopain 200mg Cap",
+    "location": "7-4"
+  },
+  {
+    "id": "ECO03E",
+    "drug_name": "Econazine Cream 10gm Tube",
+    "location": "8-3"
+  },
+  {
+    "id": "ECT02O",
+    "drug_name": "Ectrin 300mg Cap",
+    "location": "7-4"
+  },
+  {
+    "id": "EDA01O",
+    "drug_name": "Edarbi 40mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "EDI01O",
+    "drug_name": "Ediol FC 1mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "EFE02O",
+    "drug_name": "EFFEXOR XR 75mg Cap",
+    "location": "7-4"
+  },
+  {
+    "id": "EFE03O",
+    "drug_name": "Effexor XR 37.5mg Cap#",
+    "location": "7-4"
+  },
+  {
+    "id": "EFI02O",
+    "drug_name": "Efient 3.75mg Tab#",
+    "location": "7-4"
+  },
+  {
+    "id": "EME01O",
+    "drug_name": "Emetrol 10mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "EME02O",
+    "drug_name": "Emend 80mg Cap",
+    "location": "7-4"
+  },
+  {
+    "id": "EME03O",
+    "drug_name": "Emend 125mg Cap",
+    "location": "7-4"
+  },
+  {
+    "id": "END02O",
+    "drug_name": "Endoxan 50mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "ENO01E",
+    "drug_name": "Enoxolone Gingival Paste 80gm Tube",
+    "location": "8-3"
+  },
+  {
+    "id": "ENT01O",
+    "drug_name": "Entresto  100mg Tab#",
+    "location": "7-4"
+  },
+  {
+    "id": "ENT02O",
+    "drug_name": "ENTRESTO 200MG TAB#",
+    "location": "7-4"
+  },
+  {
+    "id": "EPH01I",
+    "drug_name": "Ephedrine 40mg/1ml Amp",
+    "location": "5-2"
+  },
+  {
+    "id": "ERG01O",
+    "drug_name": "Ergometrine 0.2mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "ERY03O",
+    "drug_name": "Erythromycin 250mg Cap#",
+    "location": "7-4"
+  },
+  {
+    "id": "ESM02I",
+    "drug_name": "Esmolol 100mg/10ml Vial",
+    "location": "5-2"
+  },
+  {
+    "id": "EST04O",
+    "drug_name": "Estromon 0.625mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "ESZ01O",
+    "drug_name": "Eszo 2mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "ETU01O",
+    "drug_name": "Etumine 40mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "EUR02O",
+    "drug_name": "Euricon 50mg Tab#",
+    "location": "7-4"
+  },
+  {
+    "id": "EVA01E",
+    "drug_name": "Evac Enema",
+    "location": "8-2"
+  },
+  {
+    "id": "EVO01O",
+    "drug_name": "Evoxac 30mg Cap#",
+    "location": "7-4"
+  },
+  {
+    "id": "EXE01E",
+    "drug_name": "Exelderm Cream 10gm Tube",
+    "location": "8-3"
+  },
+  {
+    "id": "EXE02E",
+    "drug_name": "Exelderm Solution 1% 10ml",
+    "location": "8-3"
+  },
+  {
+    "id": "EXF01O",
+    "drug_name": "Exforge(二合一) 5/80mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "EZE01O",
+    "drug_name": "Ezetrol 10mg Tab#",
+    "location": "7-4"
+  },
+  {
+    "id": "FAM01O",
+    "drug_name": "Famo 20mg Tab#",
+    "location": "7-4"
+  },
+  {
+    "id": "FAM02O",
+    "drug_name": "Famvir 250mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "FEB01O",
+    "drug_name": "Feburic FC 80mg Tab#",
+    "location": "7-4"
+  },
+  {
+    "id": "FEB02I",
+    "drug_name": "Fe-Back 40mg/2ml Amp",
+    "location": "3-6"
+  },
+  {
+    "id": "FEL02O",
+    "drug_name": "Felpin ER 5mg Tab",
+    "location": "7-4"
+  },
+  {
+    "id": "FEM01O",
+    "drug_name": "Femara 2.5mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "FLU01O",
+    "drug_name": "Flupine 0.25mg Tab#4",
+    "location": "6-2"
+  },
+  {
+    "id": "FLU02O",
+    "drug_name": "Flusine 500mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "FLU03O",
+    "drug_name": "Fluitran 2mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "FLU04O",
+    "drug_name": "Fluzine 5mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "FLU05I",
+    "drug_name": "Fluanxol Depot 20mg/1ml Amp",
+    "location": "3-6"
+  },
+  {
+    "id": "FLU06O",
+    "drug_name": "Fluene 50mg Cap#",
+    "location": "7-5"
+  },
+  {
+    "id": "FLU09O",
+    "drug_name": "Fluoxetine 20mg Cap (CYH)",
+    "location": "7-5"
+  },
+  {
+    "id": "FLU11I",
+    "drug_name": "Flumarin 1gm Vial#",
+    "location": "3-5"
+  },
+  {
+    "id": "FOL01O",
+    "drug_name": "Folic Acid 5mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "FOR01O",
+    "drug_name": "Forxiga 10mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "FOR02O",
+    "drug_name": "Forlax 10g pack",
+    "location": "7-5"
+  },
+  {
+    "id": "FOY01I",
+    "drug_name": "Foy For Injection 100mg Vial",
+    "location": "3-6"
+  },
+  {
+    "id": "FRA01I",
+    "drug_name": "Fragmin 5000iu/0.2ml",
+    "location": "5-2"
+  },
+  {
+    "id": "FRE01I",
+    "drug_name": "Fresofol 200mg/20ml Amp#4",
+    "location": "6-2"
+  },
+  {
+    "id": "FRE02I",
+    "drug_name": "FRESOFOL 500mg/50ml Vial#4",
+    "location": "6-2"
+  },
+  {
+    "id": "FUC02O",
+    "drug_name": "Fucon 10mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "FUC03E",
+    "drug_name": "Fucidin Cream 2% 15gm",
+    "location": "8-3"
+  },
+  {
+    "id": "FUR02I",
+    "drug_name": "Furoxime 750mg Vial#",
+    "location": "3-6"
+  },
+  {
+    "id": "FUS01O",
+    "drug_name": "Fusodate 250mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "FUS02E",
+    "drug_name": "Fuskin Cream 100mg/5gm",
+    "location": "8-3"
+  },
+  {
+    "id": "GAL02O",
+    "drug_name": "Galvus Met 50/850 Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "GEN01O",
+    "drug_name": "Genurso 100mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "GEN07E",
+    "drug_name": "Gentamycin Oph Oint 15mg/5gm GCPC",
+    "location": "8-3"
+  },
+  {
+    "id": "GEN11I",
+    "drug_name": "Gendobu 250mg/20ml Vial",
+    "location": "5-3"
+  },
+  {
+    "id": "GIK01O",
+    "drug_name": "GI Klean Powder",
+    "location": "7-5"
+  },
+  {
+    "id": "GIK02O",
+    "drug_name": "Giko F.C. 9.6mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "GIP01I",
+    "drug_name": "Gipamine 600mg/200mL Bag",
+    "location": "5-2"
+  },
+  {
+    "id": "GIT01I",
+    "drug_name": "Gitose 5% 250ml 軟袋",
+    "location": "1-2"
+  },
+  {
+    "id": "GIT02I",
+    "drug_name": "Gitose 5% 500ml 軟袋",
+    "location": "2-6"
+  },
+  {
+    "id": "GIT03I",
+    "drug_name": "Gitose 5% 100ml 軟袋",
+    "location": "1-4"
+  },
+  {
+    "id": "GLU03I",
+    "drug_name": "Vitagen 20%/20ml Amp",
+    "location": "5-5"
+  },
+  {
+    "id": "GLU04I",
+    "drug_name": "Vitagen 50%/20ml Amp",
+    "location": "5-5"
+  },
+  {
+    "id": "GLU07O",
+    "drug_name": "Glucophage 500mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "GLU13I",
+    "drug_name": "Vitagen Inj 5% 500ml 塑膠瓶",
+    "location": "1-2"
+  },
+  {
+    "id": "GLU18I",
+    "drug_name": "Dextrose 5%+0.33% Saline 500ml 塑膠瓶",
+    "location": "1-3"
+  },
+  {
+    "id": "GLU25I",
+    "drug_name": "Dextrose 5%/0.9% Saline 500ml 塑膠瓶",
+    "location": "1-1"
+  },
+  {
+    "id": "GLU28O",
+    "drug_name": "Glustrong 250mg Cap#",
+    "location": "7-5"
+  },
+  {
+    "id": "GLU30I",
+    "drug_name": "Gluco-methionin B Inj 20ml Amp",
+    "location": "3-6"
+  },
+  {
+    "id": "GLY01O",
+    "drug_name": "Glycopyrodyn 1mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "GLY01S",
+    "drug_name": "Glycerin 100ml Bot",
+    "location": "8-6"
+  },
+  {
+    "id": "GLY02O",
+    "drug_name": "Glyxambi 25/5mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "GLY08I",
+    "drug_name": "Glycopyrodyn Inj 0.2mg/1ml Amp",
+    "location": "3-6"
+  },
+  {
+    "id": "GLY11I",
+    "drug_name": "Glycetose 10% 300ml",
+    "location": "2-2"
+  },
+  {
+    "id": "HAL01I",
+    "drug_name": "Haldol 5mg/1ml Amp",
+    "location": "3-6"
+  },
+  {
+    "id": "HAR04O",
+    "drug_name": "HARNALIDGE OCAS 0.4mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "HEM11I",
+    "drug_name": "Hemoclot 500mg/5mL  Amp",
+    "location": "3-6"
+  },
+  {
+    "id": "HEP01I",
+    "drug_name": "Heparin 25000iu/5ml Vial",
+    "location": "5-2"
+  },
+  {
+    "id": "HEP16I",
+    "drug_name": "Hepac Lock Flush 1000u/10ml Syringe",
+    "location": "8-5"
+  },
+  {
+    "id": "HYZ01O",
+    "drug_name": "Hyzaar FC 100/12.5 MG Tab#",
+    "location": "7-5"
+  },
+  {
+    "id": "IBI01O",
+    "drug_name": "Ibimo C.R. 60mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "IMO02O",
+    "drug_name": "Imovane 7.5mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "IMU01O",
+    "drug_name": "Imuran 50mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "IND06O",
+    "drug_name": "Indoy 25mg Cap",
+    "location": "7-5"
+  },
+  {
+    "id": "INV01I",
+    "drug_name": "Invanz 1gm Vial#",
+    "location": "4-1"
+  },
+  {
+    "id": "INV01O",
+    "drug_name": "Invega ER 3mg Tab#",
+    "location": "7-5"
+  },
+  {
+    "id": "INV02O",
+    "drug_name": "INVEGA ER 9mg Tab#",
+    "location": "7-5"
+  },
+  {
+    "id": "IPR02E",
+    "drug_name": "Ipratran Inh Soln 500mcg/2ml",
+    "location": "8-3"
+  },
+  {
+    "id": "ISO06O",
+    "drug_name": "Isoniazide 100mg Tab#",
+    "location": "7-5"
+  },
+  {
+    "id": "ISO07O",
+    "drug_name": "IsoMIL(Verapamil) 40mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "ISO08O",
+    "drug_name": "ISOPTIN SR 240MG TAB",
+    "location": "7-5"
+  },
+  {
+    "id": "ISO09O",
+    "drug_name": "Isormol(Is-5-Mn) 20mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "ISO12O",
+    "drug_name": "Isobide 10mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "JAN01O",
+    "drug_name": "Januvia 100mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "JAN02O",
+    "drug_name": "JANUMET 50/500 mg FC Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "JAR01O",
+    "drug_name": "Jardiance 10mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "JAR02O",
+    "drug_name": "JARDIANCE DUO 12.5/850mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "JAR03O",
+    "drug_name": "JARDIANCE 25mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "KAL01O",
+    "drug_name": "Kalimate powder 5gm pack",
+    "location": "7-5"
+  },
+  {
+    "id": "KAR01E",
+    "drug_name": "Kary Uni Oph Susp 0.25mg/5ml Bot",
+    "location": "8-3"
+  },
+  {
+    "id": "KEP01I",
+    "drug_name": "Keppra Inj 500mg/5ml Vial",
+    "location": "4-1"
+  },
+  {
+    "id": "KEP01O",
+    "drug_name": "Keppra 500mg Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "KEP01S",
+    "drug_name": "Keppra Oral Soln 100mg/ml;300ml Bot#",
+    "location": "層架"
+  },
+  {
+    "id": "KET01E",
+    "drug_name": "KETO PAP 30mg 6piece/Pack",
+    "location": "8-4"
+  },
+  {
+    "id": "KET04O",
+    "drug_name": "Ketosteril Tab",
+    "location": "7-5"
+  },
+  {
+    "id": "KET05I",
+    "drug_name": "Keto 30mg/1ml Amp",
+    "location": "4-1"
+  },
+  {
+    "id": "KGL01S",
+    "drug_name": "K-Glu oral solution 20meq/15ml",
+    "location": "8-4"
+  },
+  {
+    "id": "KLA01O",
+    "drug_name": "Klaricid XL 500mg Tab#",
+    "location": "7-6"
+  },
+  {
+    "id": "KOC01O",
+    "drug_name": "Kocel 6gm Pack",
+    "location": "7-6"
+  },
+  {
+    "id": "LAB01O",
+    "drug_name": "Labtal 200mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "LAC02I",
+    "drug_name": "Lactated Ringer 0.5L 塑膠瓶",
+    "location": "1-5"
+  },
+  {
+    "id": "LAC03S",
+    "drug_name": "Lactul Syrup 300ml Bot",
+    "location": "8-3"
+  },
+  {
+    "id": "LAM02O",
+    "drug_name": "Lamictal 50mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "LAN03I",
+    "drug_name": "Lanoxin 0.5mg/2ml Amp",
+    "location": "5-3"
+  },
+  {
+    "id": "LAT01O",
+    "drug_name": "Latuda 40mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "LCA01I",
+    "drug_name": "L-Carnit 1g/5mL Amp",
+    "location": "4-1"
+  },
+  {
+    "id": "LEN03O",
+    "drug_name": "Lendormin 250mcg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "LEN04O",
+    "drug_name": "LENVIMA 10MG CAP",
+    "location": "6-1"
+  },
+  {
+    "id": "LEX04O",
+    "drug_name": "Lexotan 1.5MG Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "LIC01O",
+    "drug_name": "Licodin 100mg Tab#",
+    "location": "7-6"
+  },
+  {
+    "id": "LID01E",
+    "drug_name": "Lidopat Patch 5%",
+    "location": "8-4"
+  },
+  {
+    "id": "LID01O",
+    "drug_name": "Lidin 300mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "LID03I",
+    "drug_name": "Lidocaine HCl 心 2%/5ml Amp",
+    "location": "5-3"
+  },
+  {
+    "id": "LID04I",
+    "drug_name": "Lidocaine 局麻 2% 20mL Vial",
+    "location": "4-1"
+  },
+  {
+    "id": "LIN01O",
+    "drug_name": "Linicor F.C.T. 500/20mg#",
+    "location": "7-6"
+  },
+  {
+    "id": "LIN03O",
+    "drug_name": "Lindacin 150mg Cap",
+    "location": "7-6"
+  },
+  {
+    "id": "LIP13O",
+    "drug_name": "Lipitor FC 20mg Tab#",
+    "location": "7-6"
+  },
+  {
+    "id": "LIP14O",
+    "drug_name": "Lipanthyl Supra 160mg Tab#",
+    "location": "7-6"
+  },
+  {
+    "id": "LIQ01E",
+    "drug_name": "Liq. Paraffine 30ml",
+    "location": "8-6"
+  },
+  {
+    "id": "LIV02O",
+    "drug_name": "Livalo 2mg Tab#",
+    "location": "7-6"
+  },
+  {
+    "id": "LOM02E",
+    "drug_name": "Lomexin 200mg Vag Tab",
+    "location": "8-4"
+  },
+  {
+    "id": "LON02O",
+    "drug_name": "Lonine 200mg Cap",
+    "location": "7-6"
+  },
+  {
+    "id": "LOP02O",
+    "drug_name": "Loperam 2mg Cap",
+    "location": "7-6"
+  },
+  {
+    "id": "LOW01I",
+    "drug_name": "Low Mol. Dextran Dextrose 500mL Bag",
+    "location": "1-2"
+  },
+  {
+    "id": "LOX01O",
+    "drug_name": "Loxol SR 75mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "LUC01O",
+    "drug_name": "Luckyhepa Cap#",
+    "location": "7-6"
+  },
+  {
+    "id": "LYA01I",
+    "drug_name": "Lyacety 500mg Vial",
+    "location": "4-1"
+  },
+  {
+    "id": "LYR01O",
+    "drug_name": "Lyrica 75mg Cap#",
+    "location": "7-6"
+  },
+  {
+    "id": "MAC02O",
+    "drug_name": "Macalol 0.25mcg Cap#",
+    "location": "7-6"
+  },
+  {
+    "id": "MAD03O",
+    "drug_name": "Madopar HBS 125mg Cap",
+    "location": "7-6"
+  },
+  {
+    "id": "MAD04O",
+    "drug_name": "MADOPAR 250 TABLETS",
+    "location": "7-6"
+  },
+  {
+    "id": "MAG03I",
+    "drug_name": "Mag. Sulfate 10%/20ml Amp",
+    "location": "5-3"
+  },
+  {
+    "id": "MAN01I",
+    "drug_name": "Maniton inj 20% 100ml",
+    "location": "3-1"
+  },
+  {
+    "id": "MAR01I",
+    "drug_name": "Marcaine 100mg/20ml Vial",
+    "location": "4-2"
+  },
+  {
+    "id": "MEC01O",
+    "drug_name": "Meclizine 25mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MEC02O",
+    "drug_name": "Mecater 25mcg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MEG04S",
+    "drug_name": "Megest Oral Susp 40mg/ml;120ml",
+    "location": "8-4"
+  },
+  {
+    "id": "MEL02O",
+    "drug_name": "Meletin 100mg Cap",
+    "location": "7-6"
+  },
+  {
+    "id": "MEL03O",
+    "drug_name": "Meloxin 7.5mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MEN01I",
+    "drug_name": "Menocik 100mg Vial",
+    "location": "4-1"
+  },
+  {
+    "id": "MEN01O",
+    "drug_name": "Menisone 4mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MEP02I",
+    "drug_name": "Mepem 250mg Vial#",
+    "location": "4-2"
+  },
+  {
+    "id": "MER02O",
+    "drug_name": "Mero 100mg Cap",
+    "location": "6-3"
+  },
+  {
+    "id": "MES01E",
+    "drug_name": "Mesa Inhal Soln 600mg/3ml",
+    "location": "8-4"
+  },
+  {
+    "id": "MET02I",
+    "drug_name": "Methycobal 500mcg/1ml Amp#",
+    "location": "4-1"
+  },
+  {
+    "id": "MET05O",
+    "drug_name": "Methotrexate 2.5mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "MET06O",
+    "drug_name": "Methyldopa F.C. 250mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MET07O",
+    "drug_name": "MethyCOBAL(B12) 500mcg Cap#",
+    "location": "6-3"
+  },
+  {
+    "id": "MET18O",
+    "drug_name": "Metrozole 250mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "MIN08O",
+    "drug_name": "MINIRIN MELT 60MCG TAB#",
+    "location": "6-3"
+  },
+  {
+    "id": "MIR03O",
+    "drug_name": "Mirobect 50mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "MIY01O",
+    "drug_name": "Miyarisan BM 1gm pack",
+    "location": "6-3"
+  },
+  {
+    "id": "MIY02O",
+    "drug_name": "Miyaphargen FC Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MOC01O",
+    "drug_name": "Mocalm 0.5/10mg Tab",
+    "location": "7-6"
+  },
+  {
+    "id": "MOP01O",
+    "drug_name": "Mopride 5mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "MUA01O",
+    "drug_name": "Muaction SR 100mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "MUL01O",
+    "drug_name": "Multaq 400mg FC Tab#",
+    "location": "6-3"
+  },
+  {
+    "id": "MYC01I",
+    "drug_name": "Mycamine 50mg Vial#",
+    "location": "4-2"
+  },
+  {
+    "id": "MYC03E",
+    "drug_name": "My Comb Cream 6gm",
+    "location": "8-4"
+  },
+  {
+    "id": "MYC05O",
+    "drug_name": "Mycocep 250mg Cap",
+    "location": "6-3"
+  },
+  {
+    "id": "MYF01O",
+    "drug_name": "Myfortic 180mg Tab#",
+    "location": "6-3"
+  },
+  {
+    "id": "NAP04O",
+    "drug_name": "Naposin 250mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NAT03O",
+    "drug_name": "Natrilix SR 1.5mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NEB01O",
+    "drug_name": "Nebilet 5mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NEO01E",
+    "drug_name": "Neomycin Oint 0.5%;28gm",
+    "location": "8-4"
+  },
+  {
+    "id": "NEO02E",
+    "drug_name": "Neostigmin Eye Drop 0.01%;10ml",
+    "location": "8-4"
+  },
+  {
+    "id": "NEO02O",
+    "drug_name": "Neomycin 250mg Cap",
+    "location": "6-3"
+  },
+  {
+    "id": "NEO05O",
+    "drug_name": "Neoral 25mg Cap#",
+    "location": "6-3"
+  },
+  {
+    "id": "NEP01I",
+    "drug_name": "Nephrosteril 7% 250ml",
+    "location": "1-1"
+  },
+  {
+    "id": "NEU01O",
+    "drug_name": "Neuquinon 10mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NEU03O",
+    "drug_name": "Neurontin 100mg Cap#",
+    "location": "6-3"
+  },
+  {
+    "id": "NEX01O",
+    "drug_name": "Nexium 40mg Tab#",
+    "location": "6-3"
+  },
+  {
+    "id": "NEX02O",
+    "drug_name": "Nexavar 200mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "NIF01O",
+    "drug_name": "Nifedipine SRFC 30mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NIG01O",
+    "drug_name": "Nigoline 10mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NIL02O",
+    "drug_name": "Nilasen 24mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NIL03O",
+    "drug_name": "Nilemdo 180mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NIM01I",
+    "drug_name": "Nimotop 0.02%/50ml Vial#",
+    "location": "4-2"
+  },
+  {
+    "id": "NIM01O",
+    "drug_name": "Nimotop 30mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NIN02E",
+    "drug_name": "Nincort Oral Gel 6gm Tube",
+    "location": "8-5"
+  },
+  {
+    "id": "NOL01O",
+    "drug_name": "Nolvadex 10mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "NOO02I",
+    "drug_name": "Noopol 1gm/5ml Amp#",
+    "location": "4-2"
+  },
+  {
+    "id": "NOR01I",
+    "drug_name": "Norepinephrine 4mg/4ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "NOR04I",
+    "drug_name": "Normal Saline 20ml",
+    "location": "4-2"
+  },
+  {
+    "id": "NOR07O",
+    "drug_name": "Norvasc 5mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NOR28E",
+    "drug_name": "N.S. Irrigation 500ml 塑膠瓶",
+    "location": "層架"
+  },
+  {
+    "id": "NOR29E",
+    "drug_name": "N.S. Irrigation 1000ml 塑膠瓶",
+    "location": "層架"
+  },
+  {
+    "id": "NOV01I",
+    "drug_name": "Novamin 5mg/1ml Amp",
+    "location": "4-2"
+  },
+  {
+    "id": "NTG01O",
+    "drug_name": "NTG (Nitrostat) 0.6mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "NTG02O",
+    "drug_name": "NTG (Nitrostat) 25tab/Bot",
+    "location": "6-3"
+  },
+  {
+    "id": "OFE01O",
+    "drug_name": "Ofev Soft 150mg Cap#",
+    "location": "6-3"
+  },
+  {
+    "id": "OLA01O",
+    "drug_name": "Olan OD 5mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "OLM03O",
+    "drug_name": "Olmetec FC 40mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "OLS01O",
+    "drug_name": "OlsaaCa 5/40mg Tab",
+    "location": "6-3"
+  },
+  {
+    "id": "ONG01O",
+    "drug_name": "ONGLYZA FC 5MG TAB#",
+    "location": "6-1"
+  },
+  {
+    "id": "OTO01E",
+    "drug_name": "Otozambon Ear Drops 8ml Bot",
+    "location": "8-5"
+  },
+  {
+    "id": "OXA03I",
+    "drug_name": "Oxacillin Powder for Injection  1gm Vial",
+    "location": "4-2"
+  },
+  {
+    "id": "OXB01O",
+    "drug_name": "Oxbu ER 5mg Tab#",
+    "location": "6-3"
+  },
+  {
+    "id": "OXY01I",
+    "drug_name": "Oxytocin 10iu/1ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "PAC01O",
+    "drug_name": "Pacrea 25000IU Cap",
+    "location": "6-4"
+  },
+  {
+    "id": "PAN02I",
+    "drug_name": "Pantoloc I.V. 40mg Vial",
+    "location": "4-3"
+  },
+  {
+    "id": "PAR08E",
+    "drug_name": "Parmason Gargle Solution",
+    "location": "8-5"
+  },
+  {
+    "id": "PAR08O",
+    "drug_name": "Pariet 20mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "PAR09O",
+    "drug_name": "Parotin FC 75mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "PEN01O",
+    "drug_name": "Pentop S.R 400mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "PEN05I",
+    "drug_name": "Penicillin G 3000000U Vial",
+    "location": "4-4"
+  },
+  {
+    "id": "PER05I",
+    "drug_name": "Perdipine 10mg/10ml Amp",
+    "location": "4-3"
+  },
+  {
+    "id": "PHE01I",
+    "drug_name": "Phenobital 100mg/1ml Amp#4",
+    "location": "6-2"
+  },
+  {
+    "id": "PHY01I",
+    "drug_name": "Phytonadione(Vit K1) 10mg/1ml Amp",
+    "location": "5-5"
+  },
+  {
+    "id": "PIC03O",
+    "drug_name": "Picetam 400mg Cap#",
+    "location": "6-4"
+  },
+  {
+    "id": "PIN01O",
+    "drug_name": "Pinsaun 25mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "PIT02I",
+    "drug_name": "Pitressin 20u/1ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "PLA02O",
+    "drug_name": "Plaquenil 200mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "PLA03O",
+    "drug_name": "Plavix 75mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "PLE02E",
+    "drug_name": "Plegisol Solution 1000ml",
+    "location": "8-6"
+  },
+  {
+    "id": "PLE02O",
+    "drug_name": "Pletaal 100MG TAB#",
+    "location": "6-4"
+  },
+  {
+    "id": "POS04E",
+    "drug_name": "Posuline 100/2.5mg Supp",
+    "location": "8-5"
+  },
+  {
+    "id": "POT01I",
+    "drug_name": "Pot Chloride 15%;40meq/20ml Amp",
+    "location": "5-3"
+  },
+  {
+    "id": "PRA01O",
+    "drug_name": "Pradaxa 110 mg Cap#",
+    "location": "6-1"
+  },
+  {
+    "id": "PRE01I",
+    "drug_name": "Precedex 200mcg/2ml Vial#",
+    "location": "5-4"
+  },
+  {
+    "id": "PRE05E",
+    "drug_name": "Pred Forte Oph Susp 1% 5ml",
+    "location": "8-5"
+  },
+  {
+    "id": "PRI03I",
+    "drug_name": "Prismasol B0 Solution 5L",
+    "location": "層架"
+  },
+  {
+    "id": "PRI04I",
+    "drug_name": "Primacor 10mg/10ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "PRO02I",
+    "drug_name": "Promeran 10mg/2ml Amp",
+    "location": "4-3"
+  },
+  {
+    "id": "PRO05I",
+    "drug_name": "Protamine 50mg/5ml Amp",
+    "location": "4-4"
+  },
+  {
+    "id": "PRO10O",
+    "drug_name": "Procil 50mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "PRO14I",
+    "drug_name": "Promostan 20mcg Vial",
+    "location": "4-4"
+  },
+  {
+    "id": "PRO15O",
+    "drug_name": "Procal 667mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "PRO17O",
+    "drug_name": "Prograf (Fk506) 1mg Cap",
+    "location": "6-4"
+  },
+  {
+    "id": "PRO20O",
+    "drug_name": "Propranolol 10mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "PRO22I",
+    "drug_name": "Isoproternol 0.2mg/1ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "PRO25O",
+    "drug_name": "Progor 180mg Cap",
+    "location": "6-4"
+  },
+  {
+    "id": "PRO28O",
+    "drug_name": "Prograf (Fk506) 0.5mg Cap",
+    "location": "6-4"
+  },
+  {
+    "id": "PRO31O",
+    "drug_name": "Promeran FC 3.84mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "PYR04I",
+    "drug_name": "Pyridoxal Phosphate 10mg/2ml Amp Taiyu",
+    "location": "4-4"
+  },
+  {
+    "id": "PYR05O",
+    "drug_name": "Pyrazinamide 500mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "QTE01O",
+    "drug_name": "Qtern 5/10mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "QTI01S",
+    "drug_name": "Qting Oral Soln 25mg/ml;120ml Bot",
+    "location": "8-4"
+  },
+  {
+    "id": "RAN02O",
+    "drug_name": "Rancad ER 500mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "RAP04I",
+    "drug_name": "Rapiacta 300mg (自費)Bag",
+    "location": "4-4"
+  },
+  {
+    "id": "REL03O",
+    "drug_name": "Relinide 1mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "REQ02O",
+    "drug_name": "REQUIP PD 2MG Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "REX01O",
+    "drug_name": "Rexulti 2mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "RHY01O",
+    "drug_name": "Rhynorm 150mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "RIF08O",
+    "drug_name": "RIFAMPICIN 300MG CAP#",
+    "location": "6-4"
+  },
+  {
+    "id": "RIN01E",
+    "drug_name": "Rinderon-V Cream 0.06% 5gm",
+    "location": "8-5"
+  },
+  {
+    "id": "RIN03O",
+    "drug_name": "Rinvoq ER 15mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "RIN12I",
+    "drug_name": "Ringer Injection 500ml Bot",
+    "location": "1-3"
+  },
+  {
+    "id": "RIN13I",
+    "drug_name": "Rinderon 4mg/1ml Amp",
+    "location": "4-4"
+  },
+  {
+    "id": "RIS02O",
+    "drug_name": "RISPERDAL 2mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "RIV04O",
+    "drug_name": "RIVOtril 0.5mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "RIV05O",
+    "drug_name": "RIVOTRIL 2mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "RIX01O",
+    "drug_name": "Rixia 0.5mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "ROC01I",
+    "drug_name": "Rocuronium Kabi 100mg/10ml Vial",
+    "location": "5-4"
+  },
+  {
+    "id": "ROL01I",
+    "drug_name": "Rolikan 7% 20ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "ROL02I",
+    "drug_name": "ROLIKAN Inj 250ml Bot",
+    "location": "5-4"
+  },
+  {
+    "id": "ROP01I",
+    "drug_name": "Ropica Inj 200mg/20ml Vial",
+    "location": "5-4"
+  },
+  {
+    "id": "ROS01I",
+    "drug_name": "Rosis 20mg/2ml Amp",
+    "location": "4-4"
+  },
+  {
+    "id": "SAB01I",
+    "drug_name": "SABS 500mg/100ml Bot",
+    "location": "4-1"
+  },
+  {
+    "id": "SAL01I",
+    "drug_name": "Saline Inj 0.9% 250ML (PP袋)",
+    "location": "1-2"
+  },
+  {
+    "id": "SAL01O",
+    "drug_name": "Salazine 500mg Tab",
+    "location": "6-4"
+  },
+  {
+    "id": "SAL02I",
+    "drug_name": "Saline Inj 0.9% 100ML (PP袋)",
+    "location": "1-5"
+  },
+  {
+    "id": "SAL03E",
+    "drug_name": "Saldolin Inh Soln 5mg/2.5ml",
+    "location": "8-4"
+  },
+  {
+    "id": "SAL04I",
+    "drug_name": "Saline Inj 0.9% 1L (PP袋)",
+    "location": "2-4"
+  },
+  {
+    "id": "SAL05I",
+    "drug_name": "Saline Inj 0.45% 500ML (PP袋)",
+    "location": "1-4"
+  },
+  {
+    "id": "SAL05O",
+    "drug_name": "Salagen 5mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "SAN01O",
+    "drug_name": "Sanyl 50mg Tab#",
+    "location": "6-4"
+  },
+  {
+    "id": "SEC04S",
+    "drug_name": "Secorine Syrup 120ml",
+    "location": "8-5"
+  },
+  {
+    "id": "SER01S",
+    "drug_name": "Seridol Oral Soln 30mg/30ml",
+    "location": "8-5"
+  },
+  {
+    "id": "SER03O",
+    "drug_name": "Seroquel 25mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SER05O",
+    "drug_name": "SEROQUEL XR 200mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SER09O",
+    "drug_name": "Seroquel XR 50mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SET01O",
+    "drug_name": "Setine 20mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SET02I",
+    "drug_name": "Setron 3mg/3mL Amp",
+    "location": "4-4"
+  },
+  {
+    "id": "SEV01I",
+    "drug_name": "Sevatrim 5ml Amp#",
+    "location": "4-5"
+  },
+  {
+    "id": "SEV03O",
+    "drug_name": "SEVIKAR 5/40mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SIG01O",
+    "drug_name": "SIGMART 5mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SIL03E",
+    "drug_name": "Siliverzine Cream 1% 20Gm",
+    "location": "8-5"
+  },
+  {
+    "id": "SIL07O",
+    "drug_name": "Silence 1mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "SIN01I",
+    "drug_name": "Sintrix 500mg Vial#",
+    "location": "4-5"
+  },
+  {
+    "id": "SIN06E",
+    "drug_name": "Sinomin Oph Solu 4% 15ml",
+    "location": "8-5"
+  },
+  {
+    "id": "SIN10O",
+    "drug_name": "Singulair 10mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SIN11E",
+    "drug_name": "Sindine Soln 10% 200mL Bot",
+    "location": "8-5"
+  },
+  {
+    "id": "SIN13E",
+    "drug_name": "Sindine Alc 10% 200mL Bot",
+    "location": "8-5"
+  },
+  {
+    "id": "SIN15O",
+    "drug_name": "Singulair Chewable 4mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SIN16E",
+    "drug_name": "Sindine Soln 10% 120mL Bot",
+    "location": "8-5"
+  },
+  {
+    "id": "SIN16O",
+    "drug_name": "Singulair 5mg Chewable Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "SIN20O",
+    "drug_name": "Sinmaron OD 30mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SIR01O",
+    "drug_name": "Sirdalud 2mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SIV01I",
+    "drug_name": "Sivkort Susp 10mg/1ml Amp",
+    "location": "4-5"
+  },
+  {
+    "id": "SLA01O",
+    "drug_name": "Slatone 25mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SMA01O",
+    "drug_name": "Smartgen 2mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SME01O",
+    "drug_name": "Smecta Powder For Oral Susp 3gm",
+    "location": "6-5"
+  },
+  {
+    "id": "SOD02I",
+    "drug_name": "Sod. Chloride 0.45% 20ml Amp",
+    "location": "4-2"
+  },
+  {
+    "id": "SOD05O",
+    "drug_name": "Sodium Bicarbonate 600mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SOD12I",
+    "drug_name": "Sodium Chloride 3% 500ml",
+    "location": "5-3"
+  },
+  {
+    "id": "SOD15I",
+    "drug_name": "Sod. Chloride 0.9% 1.5L PVC袋",
+    "location": "2-1"
+  },
+  {
+    "id": "SOL01O",
+    "drug_name": "Solaxin 200mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SOL02I",
+    "drug_name": "Solu-Cortef 100mg Vial",
+    "location": "4-5"
+  },
+  {
+    "id": "SOL03I",
+    "drug_name": "SOLU-MEDROL 500mg Vial",
+    "location": "4-5"
+  },
+  {
+    "id": "SOL04I",
+    "drug_name": "Solu-Medrol 40mg Vial",
+    "location": "4-5"
+  },
+  {
+    "id": "SOL08O",
+    "drug_name": "Solian 200mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SPA05O",
+    "drug_name": "Spastec FC 50mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SPE02E",
+    "drug_name": "Spersin Ointment 10Gm",
+    "location": "8-5"
+  },
+  {
+    "id": "SPI05E",
+    "drug_name": "Spiolto Respimat 2.5/2.5mcg (Inhalation)",
+    "location": "8-5"
+  },
+  {
+    "id": "STA01I",
+    "drug_name": "Stazolin 1gm Vial",
+    "location": "4-4"
+  },
+  {
+    "id": "STA05O",
+    "drug_name": "Stable 25mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "STI04O",
+    "drug_name": "Stilnox 10mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "STR01O",
+    "drug_name": "Strocain Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "STR05I",
+    "drug_name": "Stronger Neo Minophagen C Inj",
+    "location": "4-5"
+  },
+  {
+    "id": "SUB01I",
+    "drug_name": "Subacillin Inj 1.5gm Vial#",
+    "location": "4-3"
+  },
+  {
+    "id": "SUL01O",
+    "drug_name": "Sulmatyl FC 50mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SUL04O",
+    "drug_name": "Sulpin 200mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SUN01I",
+    "drug_name": "Suntose 5%+0.45% 500ml PP袋",
+    "location": "1-6"
+  },
+  {
+    "id": "SUW01O",
+    "drug_name": "Suwell Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SYN01O",
+    "drug_name": "Synbot 20mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "SYN03O",
+    "drug_name": "Syntrend 6.25mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "TAI02I",
+    "drug_name": "Taita No. 2 500ml",
+    "location": "2-5"
+  },
+  {
+    "id": "TAI03I",
+    "drug_name": "Taita No.3 500ml",
+    "location": "2-5"
+  },
+  {
+    "id": "TAI05I",
+    "drug_name": "Taita No.5 400ml",
+    "location": "2-3"
+  },
+  {
+    "id": "TAI06I",
+    "drug_name": "Taigexyn 500mg/250ml Bag",
+    "location": "5-5"
+  },
+  {
+    "id": "TAK01O",
+    "drug_name": "Takepron OD 30mg Tab#",
+    "location": "6-5"
+  },
+  {
+    "id": "TAM02O",
+    "drug_name": "Tamiflu 75mg Cap(自費)",
+    "location": "6-5"
+  },
+  {
+    "id": "TAM04O",
+    "drug_name": "Tambocor 100mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "TAM07O",
+    "drug_name": "Tamlosin D 0.2mg Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "TAP01I",
+    "drug_name": "Tapimycin 4.5gm Vial#",
+    "location": "4-5"
+  },
+  {
+    "id": "TAR02I",
+    "drug_name": "Targocid 200mg Vial#",
+    "location": "4-5"
+  },
+  {
+    "id": "TAT03I",
+    "drug_name": "TATUMCEF 2GM VIAL",
+    "location": "4-6"
+  },
+  {
+    "id": "TED01O",
+    "drug_name": "Tedalin 100mg Chewable Tab",
+    "location": "6-5"
+  },
+  {
+    "id": "TEI01I",
+    "drug_name": "Teicod 200mg Vial",
+    "location": "4-6"
+  },
+  {
+    "id": "TEM03O",
+    "drug_name": "Temodal 20mg Cap#",
+    "location": "6-1"
+  },
+  {
+    "id": "TEN04I",
+    "drug_name": "Tencam 20mg Vial",
+    "location": "4-6"
+  },
+  {
+    "id": "TET01E",
+    "drug_name": "Tetracycline Oph Oint 1% 5gm (GCPC)",
+    "location": "8-6"
+  },
+  {
+    "id": "THA01O",
+    "drug_name": "Thado 50mg Cap#",
+    "location": "6-1"
+  },
+  {
+    "id": "THI01I",
+    "drug_name": "Thiamine HCl 100mg/2mL Amp SY",
+    "location": "5-5"
+  },
+  {
+    "id": "THO01O",
+    "drug_name": "Thoin SR 125mg Cap",
+    "location": "6-5"
+  },
+  {
+    "id": "TIG01I",
+    "drug_name": "Tigelin 50mg Vial",
+    "location": "4-5"
+  },
+  {
+    "id": "TOF02O",
+    "drug_name": "Tofranil 25mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "TON01O",
+    "drug_name": "Tonsaric 100mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "TON03O",
+    "drug_name": "Tonvasca 2/10mg Cap",
+    "location": "6-5"
+  },
+  {
+    "id": "TOP02E",
+    "drug_name": "Topsym Cream 10gm Tube",
+    "location": "8-6"
+  },
+  {
+    "id": "TOP06O",
+    "drug_name": "Topamax 50mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "TOP07E",
+    "drug_name": "Topsym Lotion 5mg/10ml",
+    "location": "8-6"
+  },
+  {
+    "id": "TOR01E",
+    "drug_name": "Toricam Gel 40gm Tube",
+    "location": "8-6"
+  },
+  {
+    "id": "TRA01O",
+    "drug_name": "Trajenta FC 5mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "TRA07I",
+    "drug_name": "Tramtor 100mg/2ml Amp #4",
+    "location": "6-2"
+  },
+  {
+    "id": "TRA14O",
+    "drug_name": "TRAJENTA DUO 2.5/850MG TAB#",
+    "location": "6-1"
+  },
+  {
+    "id": "TRI07O",
+    "drug_name": "Tritace 2.5mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "TRI08O",
+    "drug_name": "Trileptal 300mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "TRO02O",
+    "drug_name": "Trokendi XR 50mg Cap",
+    "location": "6-5"
+  },
+  {
+    "id": "TS101O",
+    "drug_name": "TS-1 20 mg Cap",
+    "location": "6-1"
+  },
+  {
+    "id": "TYG01I",
+    "drug_name": "Tygacil 50mg Vial#",
+    "location": "4-6"
+  },
+  {
+    "id": "UFU01O",
+    "drug_name": "Ufur Cap#",
+    "location": "6-1"
+  },
+  {
+    "id": "URE03E",
+    "drug_name": "Urea Cream 100mg/gm;20gm",
+    "location": "8-6"
+  },
+  {
+    "id": "URE04E",
+    "drug_name": "Ureson Cream 16gm Tube",
+    "location": "8-6"
+  },
+  {
+    "id": "URI02O",
+    "drug_name": "URIEF FC 8MG TAB",
+    "location": "6-6"
+  },
+  {
+    "id": "URO05I",
+    "drug_name": "Uromitexan 400mg/4ml Amp",
+    "location": "5-5"
+  },
+  {
+    "id": "URO05O",
+    "drug_name": "Uroprin 100mg Tab (Pyridium)",
+    "location": "6-6"
+  },
+  {
+    "id": "URO07I",
+    "drug_name": "Urokinase 60000IU Vial YCH",
+    "location": "5-4"
+  },
+  {
+    "id": "USO01I",
+    "drug_name": "U-Sodin 5mg/2ml Amp",
+    "location": "5-4"
+  },
+  {
+    "id": "UTA01O",
+    "drug_name": "Utapine 200mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "UTR02O",
+    "drug_name": "Utraphen FC 37.5/325mg Tab#4",
+    "location": "6-2"
+  },
+  {
+    "id": "UWA01O",
+    "drug_name": "Uwarin 2.5mg Tab",
+    "location": "6-1"
+  },
+  {
+    "id": "VAG01I",
+    "drug_name": "Vagostin 0.5mg/1ml Amp",
+    "location": "5-5"
+  },
+  {
+    "id": "VAL03O",
+    "drug_name": "Valdoxan FC 25mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "VAN04I",
+    "drug_name": "Vanco 1g Vial",
+    "location": "5-5"
+  },
+  {
+    "id": "VB103O",
+    "drug_name": "Vitamin B1 100mg Tab (Johnson)",
+    "location": "6-6"
+  },
+  {
+    "id": "VEM01O",
+    "drug_name": "Vemlidy 25mg tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "VES02O",
+    "drug_name": "Vesicare FC 5mg Tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "VFE01I",
+    "drug_name": "Vfend 200mg Vial",
+    "location": "5-5"
+  },
+  {
+    "id": "VGE01I",
+    "drug_name": "V-Genta 80mg/2ml Vial",
+    "location": "5-5"
+  },
+  {
+    "id": "VID01E",
+    "drug_name": "Vidisic Gel 10gm Tube",
+    "location": "8-6"
+  },
+  {
+    "id": "VIM01I",
+    "drug_name": "Vimpat IV 200mg/20ml Vial",
+    "location": "5-6"
+  },
+  {
+    "id": "VIM01O",
+    "drug_name": "Vimpat 100mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "VIS02O",
+    "drug_name": "Visanne 2mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "VIT01I",
+    "drug_name": "Vitacicol 100mg/2ml Amp (Vit. C)",
+    "location": "5-6"
+  },
+  {
+    "id": "VIT05I",
+    "drug_name": "VitaCAL 20ml Amp (Ca2+:5.44mEq)",
+    "location": "5-5"
+  },
+  {
+    "id": "VOL01I",
+    "drug_name": "Voluven Soln 6% 500ml Bag",
+    "location": "2-4"
+  },
+  {
+    "id": "VOL01O",
+    "drug_name": "Volna-K F.C 25mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "VOL04O",
+    "drug_name": "Voltaren SR 75mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "VOR02E",
+    "drug_name": "Voren-G Gel 1% 40gm",
+    "location": "8-6"
+  },
+  {
+    "id": "WAT04E",
+    "drug_name": "Water For Irrigation 2L Bag",
+    "location": "層架"
+  },
+  {
+    "id": "WAT05I",
+    "drug_name": "Water For Inj 20ml (信東)",
+    "location": "5-6"
+  },
+  {
+    "id": "WAT07I",
+    "drug_name": "Water For Inj 500ml Bot NK (Sterille)",
+    "location": "1-3"
+  },
+  {
+    "id": "WEI02O",
+    "drug_name": "Weisu 200mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "WEL03O",
+    "drug_name": "Wellbutrin XL 150mg Tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "XAN01O",
+    "drug_name": "Xanax 0.25mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "XAN03O",
+    "drug_name": "Xanthium 200mg Cap",
+    "location": "6-6"
+  },
+  {
+    "id": "XAN04O",
+    "drug_name": "XANAX XR 0.5mg Tab #4",
+    "location": "6-2"
+  },
+  {
+    "id": "XAR01O",
+    "drug_name": "XARELTO FC 10MG TAB#",
+    "location": "6-1"
+  },
+  {
+    "id": "XAR03O",
+    "drug_name": "XARELTO FC 15mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "XEL01O",
+    "drug_name": "Xeloda 500mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "XIG01O",
+    "drug_name": "Xigduo XR 10/1000mg Tab#",
+    "location": "6-1"
+  },
+  {
+    "id": "XYJ01E",
+    "drug_name": "Xylocaine Jelly 2% 30gm",
+    "location": "8-6"
+  },
+  {
+    "id": "XYZ01O",
+    "drug_name": "Xyzal 5mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "YOU01O",
+    "drug_name": "Youkoxia FC 60mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "ZAN02O",
+    "drug_name": "Zanidip 10mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "ZAP01O",
+    "drug_name": "Zapine 100mg Tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "ZAV02I",
+    "drug_name": "Zavicefta 2.5g Vial",
+    "location": "5-6"
+  },
+  {
+    "id": "ZCO01O",
+    "drug_name": "Zcough Soft 100mg Cap",
+    "location": "6-6"
+  },
+  {
+    "id": "ZIN04I",
+    "drug_name": "Zinforo 600mg Vial",
+    "location": "5-6"
+  },
+  {
+    "id": "ZIT01O",
+    "drug_name": "Zithromax 250mg Tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "ZOL01I",
+    "drug_name": "Zoladex Depot 3.6mg Syringe#",
+    "location": "5-5"
+  },
+  {
+    "id": "ZOL01O",
+    "drug_name": "Zolpidem FC 10mg Tab CYH #4",
+    "location": "6-2"
+  },
+  {
+    "id": "ZOL02I",
+    "drug_name": "ZOLADEX LA 10.8mg Syringe#",
+    "location": "5-5"
+  },
+  {
+    "id": "ZOL02O",
+    "drug_name": "Zoloft 50mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "ZON01O",
+    "drug_name": "Zonegran FC 100 mg Tab",
+    "location": "6-6"
+  },
+  {
+    "id": "ZOV01I",
+    "drug_name": "Zovirax 250mg Vial",
+    "location": "5-6"
+  },
+  {
+    "id": "ZUL01O",
+    "drug_name": "Zulitor 4mg Tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "ZYP02I",
+    "drug_name": "Zyprexa 10mg Vial#",
+    "location": "5-6"
+  },
+  {
+    "id": "ZYP02O",
+    "drug_name": "ZYPREXA ZYDIS 10mg Tab#",
+    "location": "6-6"
+  },
+  {
+    "id": "ZYV01I",
+    "drug_name": "Zyvox 600mg/300ml Bag#",
+    "location": "5-6"
+  }
+]
