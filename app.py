@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 from threading import Timer
@@ -11,8 +12,8 @@ from bottle import Bottle, TEMPLATE_PATH, request, run, static_file, template
 BASE_DIR = Path(__file__).resolve().parent
 VIEWS_DIR = BASE_DIR / 'views'
 STATIC_DIR = BASE_DIR / 'static'
-DATA_DIR = BASE_DIR / 'data'
-DATA_FILE = DATA_DIR / 'drugs.xls'
+DATA_DIR = BASE_DIR / 'public' / 'data'
+DATA_FILE = DATA_DIR / 'drugs.json'
 REQUIRED_COLUMNS = ['id', 'drug_name', 'location']
 
 if str(VIEWS_DIR) not in TEMPLATE_PATH:
@@ -20,14 +21,19 @@ if str(VIEWS_DIR) not in TEMPLATE_PATH:
 
 app = Bottle()
 
-VALID_LOCATIONS = {f'{col}-{row}' for col in range(1, 9) for row in range(1, 7)} | {'層架'}
+VALID_LOCATIONS = {f'{col}-{row}' for col in range(1, 9) for row in range(1, 7)} | {'層架', '小庫8-4'}
 ID_PATTERN = re.compile(r'^[A-Z0-9]+$')
 
 
 def load_raw_dataframe() -> pd.DataFrame:
     if not DATA_FILE.exists():
         raise FileNotFoundError(f'找不到資料檔：{DATA_FILE}')
-    return pd.read_excel(DATA_FILE, dtype=str)
+    records = json.loads(DATA_FILE.read_text(encoding='utf-8-sig'))
+    if not isinstance(records, list) or not all(isinstance(row, dict) for row in records):
+        raise ValueError('資料檔格式錯誤：必須是 JSON 物件陣列。')
+    if not records:
+        raise ValueError('資料檔不可為空。')
+    return pd.DataFrame(records)
 
 
 def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:

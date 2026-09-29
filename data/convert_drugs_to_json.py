@@ -16,6 +16,7 @@ def main() -> None:
     drugs = pd.read_excel(
         data_dir / "drugs.xls", engine="xlrd", dtype=str, keep_default_na=False
     )
+    drugs['location'] = drugs['location'].str.replace(r'小庫', '')
     missing = [column for column in columns if column not in drugs.columns]
     if missing:
         raise ValueError(f"缺少必要欄位：{', '.join(missing)}")

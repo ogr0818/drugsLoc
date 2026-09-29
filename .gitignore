@@ -16,6 +16,7 @@ env/
 .coverage
 htmlcov/
 
-data/.DS_Store
-data/base_jun.xls
-data/prepare_base_data.py
+# data/.DS_Store
+# data/base_jun.xls
+# data/prepare_base_data.py
+data/
