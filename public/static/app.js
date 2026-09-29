@@ -3,6 +3,7 @@ const validLocations = new Set([
     Array.from({ length: 6 }, (_, row) => `${col + 1}-${row + 1}`)
   ).flat(),
   "層架",
+  "小庫8-4",
 ]);
 
 const form = document.querySelector("#query-form");
@@ -37,7 +38,7 @@ function search(code) {
   clearActiveLocation();
 
   if (!normalized) {
-    setStatus("neutral", "資料來源：drugs.xls");
+    setStatus("neutral", "資料來源：drugs.json");
     return;
   }
 

@@ -9,7 +9,7 @@ import pandas as pd
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
-DATA_FILE = BASE_DIR / "data" / "drugs.xls"
+DATA_FILE = BASE_DIR / "public" / "data" / "drugs.json"
 STATIC_DIR = BASE_DIR / "static"
 PUBLIC_DIR = BASE_DIR / "public"
 PUBLIC_DATA_DIR = PUBLIC_DIR / "data"
@@ -18,7 +18,10 @@ REQUIRED_COLUMNS = ["id", "drug_name", "location"]
 
 
 def load_drugs() -> list[dict[str, str]]:
-    df = pd.read_excel(DATA_FILE, dtype=str)
+    records = json.loads(DATA_FILE.read_text(encoding="utf-8-sig"))
+    if not isinstance(records, list) or not records or not all(isinstance(row, dict) for row in records):
+        raise ValueError("資料檔必須是非空白的 JSON 物件陣列。")
+    df = pd.DataFrame(records)
     df = df.rename(columns={c: str(c).strip() for c in df.columns})
     missing = [col for col in REQUIRED_COLUMNS if col not in df.columns]
     if missing:
@@ -90,6 +93,7 @@ def render_app_js() -> str:
     Array.from({ length: 6 }, (_, row) => `${col + 1}-${row + 1}`)
   ).flat(),
   "層架",
+  "小庫8-4",
 ]);
 
 const form = document.querySelector("#query-form");
@@ -124,7 +128,7 @@ function search(code) {
   clearActiveLocation();
 
   if (!normalized) {
-    setStatus("neutral", "資料來源：drugs.xls");
+    setStatus("neutral", "資料來源：drugs.json");
     return;
   }
 
@@ -184,15 +188,11 @@ init();
 
 
 def main() -> None:
-    drugs = load_drugs()
+    load_drugs()
     PUBLIC_DATA_DIR.mkdir(parents=True, exist_ok=True)
     PUBLIC_STATIC_DIR.mkdir(parents=True, exist_ok=True)
 
     (PUBLIC_DIR / "index.html").write_text(render_index(), encoding="utf-8")
-    (PUBLIC_DATA_DIR / "drugs.json").write_text(
-        json.dumps(drugs, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
     (PUBLIC_STATIC_DIR / "app.js").write_text(render_app_js(), encoding="utf-8")
     shutil.copy2(STATIC_DIR / "styles.css", PUBLIC_STATIC_DIR / "styles.css")
 
