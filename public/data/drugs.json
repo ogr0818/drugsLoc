@@ -1105,14 +1105,14 @@
     "location": "7-4"
   },
   {
-    "id": "FEB01O",
-    "drug_name": "Feburic FC 80mg Tab#",
-    "location": "7-4"
-  },
-  {
     "id": "FEB02I",
     "drug_name": "Fe-Back 40mg/2ml Amp",
     "location": "3-6"
+  },
+  {
+    "id": "FEB02O",
+    "drug_name": "Febuton FC 80mg Tab",
+    "location": "7-4"
   },
   {
     "id": "FEL02O",
@@ -2743,11 +2743,6 @@
     "id": "TRA14O",
     "drug_name": "TRAJENTA DUO 2.5/850MG TAB#",
     "location": "6-1"
-  },
-  {
-    "id": "TRI07O",
-    "drug_name": "Tritace 2.5mg Tab",
-    "location": "6-6"
   },
   {
     "id": "TRI08O",
